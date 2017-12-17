@@ -1,3 +1,3 @@
 # Security Bookmarks
 
-[MarkUp Test] http://github.david-clarke.id.au
+[MarkUp Test](http://github.david-clarke.id.au)
