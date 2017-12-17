@@ -1,4 +1,4 @@
 # Security Bookmarks
 
 
-[MarkUp Test] (github.david-clarke.id.au)
+[MarkUp Test] (http://github.david-clarke.id.au)
