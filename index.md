@@ -1,5 +1,6 @@
 # Security Bookmarks
 
+<<<<<<< HEAD
 
 [MarkUp Test](http://github.david-clarke.id.au)
 
@@ -208,3 +209,6 @@
         </DL><p>
     </DL><p>
 </DL>
+=======
+[MarkUp Test](http://github.david-clarke.id.au)
+>>>>>>> 1eb3ff7426d6e704a6a36fb8b26de788982449ad
